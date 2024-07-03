@@ -13,5 +13,4 @@ In this study, I analyzed a dataset of FIFA 22 players obtained from [kaagle](ht
 - The dataset features over 11,000 FIFA 22 players.
 - It includes images of players and their national flags.
 - Player statistics and attributes are based on the latest release of FIFA 22."# Sport_League_Analysis" 
-"# Sport-Leagues-Analysis" 
-"# Sport-Leagues-Analysis" 
+ 
