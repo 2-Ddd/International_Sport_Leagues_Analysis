@@ -12,5 +12,5 @@
 ## Data Overview
 - The dataset features over 11,000 FIFA 22 players.
 - It includes images of players and their national flags.
-- Player statistics and attributes are based on the latest release of FIFA 22."# Sport_League_Analysis" 
+- Player statistics and attributes are based on the latest release of FIFA 22.
  
