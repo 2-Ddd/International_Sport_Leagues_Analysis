@@ -3,9 +3,6 @@
 
 
 
-![UEFA logo](https://user-images.githubusercontent.com/102453318/173183409-3673db46-2569-41c1-aaae-be7a923251f0.png)
-
-
 ## Goals
 - Determine the most outstanding player for each position.
 - Develop the ideal team lineup for each prominent European football league.
